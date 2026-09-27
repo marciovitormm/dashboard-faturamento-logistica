@@ -32,7 +32,7 @@ Volume total de caixas, peso médio, devoluções e atendimentos, com mapa de co
 
 Tempo médio por operação, total de notas faturadas e produtividade por funcionário, incluindo horas gastas por caixa e volume de notas faturadas ao longo do tempo.
 
-Tecnologias
+## Softwares
 
 - Power BI Desktop
 - DAX (medidas calculadas)
